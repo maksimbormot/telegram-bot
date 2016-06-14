@@ -1,4 +1,4 @@
-# telegram-bot
+# @premiumize_bot
 
 This bot is designed to be your assistant in usage a cloud service <b>premiumize.me</b>.
 With it you can view the contents of your repository, upload to cloud any content and download files from there to their device.
